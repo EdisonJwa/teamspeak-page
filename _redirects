@@ -1,0 +1,3 @@
+# Redirect default Netlify subdomain to primary domain
+https://priceless-fermi-d1941d.netlify.com/* https://ts.wevg.org/:splat 301!
+https://ts.wevg.org/* https://tmspk.wiki/:splat 301!
