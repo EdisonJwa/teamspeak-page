@@ -1,0 +1,1 @@
+import HighlightJS from"../lib/common.js";export default HighlightJS;export{HighlightJS};
